@@ -1,0 +1,3 @@
+# Local editor workspaces (local paths; never publish)
+*.code-workspace
+.DS_Store

@@ -1,2 +1,3 @@
 # .github
-W&amp;C Innovation
+
+Organization profile for W&C Innovation.
